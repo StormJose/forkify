@@ -15,7 +15,6 @@
   "keywords": [],
   "author": "José Ricardo",
   "license": "ISC",
-  "main": "index.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/StormJose/forkify.git"
