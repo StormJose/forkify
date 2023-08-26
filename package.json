@@ -109,7 +109,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir output"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "keywords": [],
   "author": "José Ricardo",
