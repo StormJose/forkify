@@ -7,11 +7,6 @@ import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 
-// import icons from '../img/icons.svg'; // parcel 1
-import icons from 'url:../img/icons.svg'; // parcel 2
-import 'core-js/stable';
-import 'regenerator-runtime/runtime';
-
 // if (module.hot) {
 //   module.hot.accept();
 // }
