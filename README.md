@@ -1,6 +1,6 @@
 # forkify Project
 
-Recipe application with custom recipe uploads. Build version available at [https://forkifypage.netlify.app]
+Recipe application with custom recipe uploads. Build version available at https://forkifypage.netlify.app
 
 ## Description
 
