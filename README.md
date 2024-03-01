@@ -22,9 +22,10 @@ The forkify app is built on JavaScript and allows browsing over a million recipe
 
 Run the following command in the terminal
 
-{
+ ```sh
   npm install
-}
+```
+
 
 ## Usage
 
