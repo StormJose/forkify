@@ -20,7 +20,11 @@ The forkify app is built on JavaScript and allows browsing over a million recipe
 
 ## Installation
 
-It doesn't require any special external resource.
+Run the following command in the terminal
+
+{
+  npm install
+}
 
 ## Usage
 
